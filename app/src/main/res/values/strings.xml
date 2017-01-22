@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLTestOne</string>
+    <string-array name="currency_list">
+        <item>USD $</item>
+        <item>IDR Rp</item>
+    </string-array>
+    <string-array name="category_list">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Others</item>
+    </string-array>
+</resources>

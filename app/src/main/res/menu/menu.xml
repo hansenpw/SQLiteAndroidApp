@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/countMenu"
+        android:title="Total"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/deleteAllMenu"
+        android:title="Delete All"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/currencyMenu"
+        android:title="Edit Currency"
+        app:showAsAction="never"/>
+</menu>
